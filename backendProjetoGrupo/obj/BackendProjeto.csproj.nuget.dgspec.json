@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\JOAOVITORLUCINI\\Documents\\full-stack-project\\backendProjetoGrupo\\BackendProjeto.csproj": {}
+    "C:\\Users\\JOAOVITORLUCINI\\Desktop\\full-stack-project\\backendProjetoGrupo\\BackendProjeto.csproj": {}
   },
   "projects": {
-    "C:\\Users\\JOAOVITORLUCINI\\Documents\\full-stack-project\\backendProjetoGrupo\\BackendProjeto.csproj": {
+    "C:\\Users\\JOAOVITORLUCINI\\Desktop\\full-stack-project\\backendProjetoGrupo\\BackendProjeto.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\JOAOVITORLUCINI\\Documents\\full-stack-project\\backendProjetoGrupo\\BackendProjeto.csproj",
+        "projectUniqueName": "C:\\Users\\JOAOVITORLUCINI\\Desktop\\full-stack-project\\backendProjetoGrupo\\BackendProjeto.csproj",
         "projectName": "BackendProjeto",
-        "projectPath": "C:\\Users\\JOAOVITORLUCINI\\Documents\\full-stack-project\\backendProjetoGrupo\\BackendProjeto.csproj",
+        "projectPath": "C:\\Users\\JOAOVITORLUCINI\\Desktop\\full-stack-project\\backendProjetoGrupo\\BackendProjeto.csproj",
         "packagesPath": "C:\\Users\\JOAOVITORLUCINI\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\JOAOVITORLUCINI\\Documents\\full-stack-project\\backendProjetoGrupo\\obj\\",
+        "outputPath": "C:\\Users\\JOAOVITORLUCINI\\Desktop\\full-stack-project\\backendProjetoGrupo\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
