@@ -4,14 +4,8 @@ using BackendProjetoGrupo.Data;
 using BackendProjetoGrupo;
 
 var builder = WebApplication.CreateBuilder(args);
-
-// Configura o banco de dados
 builder.Services.AddDbContext<AppDbContext>(options =>
     options.UseSqlite("Data Source=filmes.db"));
-
-
-
-// Swagger (documentação da API)
 builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
 

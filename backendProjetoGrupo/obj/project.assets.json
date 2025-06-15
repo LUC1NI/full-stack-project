@@ -1774,32 +1774,24 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\JOAOVITORLUCINI\\.nuget\\packages\\": {},
-    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+    "C:\\Users\\Windows\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\JOAOVITORLUCINI\\Desktop\\full-stack-project\\backendProjetoGrupo\\BackendProjeto.csproj",
+      "projectUniqueName": "C:\\Users\\Windows\\Desktop\\full-stack-project\\backendProjetoGrupo\\BackendProjeto.csproj",
       "projectName": "BackendProjeto",
-      "projectPath": "C:\\Users\\JOAOVITORLUCINI\\Desktop\\full-stack-project\\backendProjetoGrupo\\BackendProjeto.csproj",
-      "packagesPath": "C:\\Users\\JOAOVITORLUCINI\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\JOAOVITORLUCINI\\Desktop\\full-stack-project\\backendProjetoGrupo\\obj\\",
+      "projectPath": "C:\\Users\\Windows\\Desktop\\full-stack-project\\backendProjetoGrupo\\BackendProjeto.csproj",
+      "packagesPath": "C:\\Users\\Windows\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Windows\\Desktop\\full-stack-project\\backendProjetoGrupo\\obj\\",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-      ],
       "configFilePaths": [
-        "C:\\Users\\JOAOVITORLUCINI\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        "C:\\Users\\Windows\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net7.0"
       ],
       "sources": {
-        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-        "C:\\Program Files\\dotnet\\library-packs": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -1860,7 +1852,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.102\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.410\\RuntimeIdentifierGraph.json"
       }
     }
   }

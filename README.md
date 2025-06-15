@@ -1,6 +1,6 @@
-# full-stack-project
+# Full Stack Project 🎬
 
-Projeto full-stack com backend em C# e frontend em React, focado em desenvolvimento web moderno e integrado.
+Projeto full stack com **back-end em C# (ASP.NET Core)** e **front-end em React**, voltado para o desenvolvimento de aplicações web modernas com comunicação via API REST.
 
 ---
 
@@ -10,41 +10,45 @@ Projeto full-stack com backend em C# e frontend em React, focado em desenvolvime
 - .NET 7 SDK
 - C#
 - Entity Framework Core
-- Swagger (opcional, mas recomendado)
 - API RESTful
+- Swagger (para documentação da API - opcional, mas recomendado)
 
 ### 🔜 Front-end (React)
 - React.js (Create React App)
-- Axios para consumo da API
-- React Router (se aplicável)
+- Axios (para requisições HTTP)
+- React Router DOM (para navegação entre páginas)
+- React Icons (para uso de ícones)
 - Estilização com CSS/Styled Components/Tailwind (dependendo do projeto)
 
 ---
 
 ## 🛠️ Pré-requisitos
 
-- Git instalado
-- Node.js (versão 14 ou superior)
-- .NET 7 SDK ([instale aqui](https://dotnet.microsoft.com/en-us/download/dotnet/7.0))
-- Editor recomendado: Visual Studio Code
+Antes de começar, certifique-se de ter o seguinte instalado na sua máquina:
+
+- [Git](https://git-scm.com/)
+- [Node.js](https://nodejs.org/) (versão 14 ou superior)
+- [.NET 7 SDK](https://dotnet.microsoft.com/en-us/download/dotnet/7.0)
+- Editor recomendado: **Visual Studio Code**
 
 ---
 
-## 🚀 Como Rodar o Projeto
+## 🚀 Passo a Passo para Rodar o Projeto
 
-### ▶️ Front-end: `frontend-filmes`
+### ▶️ Clonando o Repositório
 
-Passos para execução do front-end:
+Abra o terminal na pasta onde deseja salvar o projeto e execute:
 
 ```bash
-# Clone o repositório (se ainda não tiver)
 git clone <url-do-repositorio>
-cd full-stack-project/frontend-filmes
+cd full-stack-project
 
 # Instale as dependências
 npm install
-# ou
-yarn install
+
+npm install react-router-dom
+
+npm install react-icons
 
 # Inicie o servidor de desenvolvimento
 npm start

@@ -2,8 +2,8 @@ import React from 'react';
 import { BrowserRouter as Router, Routes, Route, Link } from 'react-router-dom';
 import FilmeList from './components/FilmeList';
 import FilmeForm from './components/FilmeForm';
-import GeneroForm from './components/GeneroForm';
 import GenerosList from './components/GenerosList';
+import GeneroForm from './components/GeneroForm';
 
 function App() {
   return (
